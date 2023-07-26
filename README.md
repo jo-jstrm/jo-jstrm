@@ -33,7 +33,7 @@ If you are *really* interested in my work, below are *all* projects I did while 
 - Find new **clusters** of Customers in a real-world dataset from Robert Bosch GmbH. Visualize Results and pitch them to management. Closed source.
 - Predict the filling level of glass containers based on a real dataset from a German recycling company. Mostly **time series data**. Visualize Results and pitch them to management. Closed source.
 - [Pandemic Package](https://github.com/jo-jstrm/Damaged-Package-Detection): automatically detect damaged packages in a warehouse based on video data in real-time. Lots of **CNNs and bounding boxes**.
-- [SciQuack](https://github.com/jo-jstrm/SciQuACK): Answer free-text questions about scientific papers by highlighting specific passages in the papers. Uses database and knowledge graph. Lots of deep learning and **NLP**. Includes website as frontend.
+- SciQuack: Answer free-text questions about scientific papers by highlighting specific passages in the papers. Uses database and knowledge graph. Lots of deep learning and **NLP**. Includes website as frontend. Closed source.
 - Compress 2d and 3d videos from autonomous vehicles for remote assistance using deep learning ([click](https://github.com/daniel-bogdoll/deep_generative_models)). Using **GANs and VAEs** on camera and lidar video data for real-time processing. Published in ML4AD@NeurIPS 2021 ([paper]([https://github.com/daniel-bogdoll/deep_generative_models](https://arxiv.org/abs/2111.03201))).
 - Optimize energy usage and storage, predict energy production in smart grids ([click](https://github.com/jo-jstrm/Smart-Grid-Applications)). Mostly **time series data**.
 - Learn Vulkan & GLSL basics, build **custom general-purpose shaders** ([click](https://github.com/jo-jstrm/Vulkan-GPU-Programming)). Out of my comfort zone (I was the only non-computer-graphics guy) and painful at times, but totally worth it.
@@ -43,4 +43,3 @@ If you are *really* interested in my work, below are *all* projects I did while 
 
 ## Languages and Tools ⚒️
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
-
